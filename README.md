@@ -12,5 +12,6 @@
 <p><a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@MD_FiX" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 
 
-<p><a target="_blank" href="https://t.me/+OWwkOZoy0u45Yjll" style="display: inline-block;"><img src="https://github.com/user-attachments/assets/b21349c8-3c7b-448c-af89-6203f8ab32ca" alt="Telegram" /</a></p>
+<p><a target="_blank" href="https://t.me/+OWwkOZoy0u45Yjll" style="display: inline-block;"><img src="https://github.com/user-attachments/assets/69080d2e-381c-414b-8400-1dc6b42bf03d" alt="Telegram" /</a></p>
  
+
