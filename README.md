@@ -1,6 +1,9 @@
 # -Entertainments
 
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+![large-filled-youtube](large/filled/youtube.svg)
+![large-filled-telegram](large/filled/telegram.svg)
+![large-filled-instagram](large/filled/instagram.svg)
+
 
 
 <h1>Hi 👋, I'm </h1>
