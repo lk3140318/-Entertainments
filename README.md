@@ -1,9 +1,5 @@
 # -Entertainments
 
-![large-filled-youtube](large/filled/youtube.svg)
-![large-filled-telegram](large/filled/telegram.svg)
-![large-filled-instagram](large/filled/instagram.svg)
-
 <h1>Hi 👋, I'm </h1>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
