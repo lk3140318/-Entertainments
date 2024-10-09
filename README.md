@@ -15,19 +15,6 @@
 <p><a target="_blank" href="https://t.me/+OWwkOZoy0u45Yjll" style="display: inline-block;"><img src="https://github.com/user-attachments/assets/69080d2e-381c-414b-8400-1dc6b42bf03d" alt="Telegram" /</a></p>
  
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)
-
-
-![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)
-![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)
-
-![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square)
-
-![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=plastic)
-
-![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square)
-
-![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)
-
-
 ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)
+
+![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)
