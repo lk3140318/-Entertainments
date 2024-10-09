@@ -4,8 +4,6 @@
 ![large-filled-telegram](large/filled/telegram.svg)
 ![large-filled-instagram](large/filled/instagram.svg)
 
-
-
 <h1>Hi 👋, I'm </h1>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -16,3 +14,7 @@
 <li><a target="_blank" href="https://t.me/+lWihqmrhI0QwNzU1">Join Now Telegram </a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@MD_FiX" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+
+
+<p><a target="_blank" href="https://t.me/+OWwkOZoy0u45Yjll" style="display: inline-block;"><img src="https://github.com/user-attachments/assets/b21349c8-3c7b-448c-af89-6203f8ab32ca" alt="Telegram" /</a></p>
+ 
